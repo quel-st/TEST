@@ -2,4 +2,8 @@ meu arquivo teste
 amoo programar 
 amoo engenharia de software
 atualizaçao do commit
+<<<<<<< HEAD
 111111111111111111111111111111111111111111111111111111
+=======
+00000000000000000000000000
+>>>>>>> f7c253ce247a232f20f7ab48436af6eed75fa5b8
