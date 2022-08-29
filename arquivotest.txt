@@ -3,6 +3,5 @@ amoo programar
 amoo engenharia de software
 atualizaçao do commit
 111111111111111111111111111111111111111111111111111111
-novoo texto
-
+criar um commit no arquivo de texto no Github
 
