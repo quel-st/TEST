@@ -7,3 +7,4 @@ atualizaçao do commit
 =======
 00000000000000000000000000
 >>>>>>> f7c253ce247a232f20f7ab48436af6eed75fa5b8
+criar um commit no arquivo de texto no Github
